@@ -1,0 +1,65 @@
+[
+    {
+        "title": "casinomalta.com",
+        "file": "casinomalta.com.mt-20220926T101822.json",
+        "requestedUrl": "https://casinomalta.com.mt/en",
+        "finalUrl": "https://casinomalta.com.mt/en",
+        "fetchTime": "2022-09-26T08:18:22.364Z"
+    },
+    {
+        "title": "comparabet.it",
+        "file": "comparabet.it-20220926T100904.json",
+        "requestedUrl": "https://comparabet.it/",
+        "finalUrl": "https://comparabet.it/",
+        "fetchTime": "2022-09-26T08:09:04.265Z"
+    },
+    {
+        "title": "divemalta.app",
+        "file": "divemalta.app-20220926T101228.json",
+        "requestedUrl": "https://divemalta.app/",
+        "finalUrl": "https://divemalta.app/",
+        "fetchTime": "2022-09-26T08:12:28.086Z"
+    },
+    {
+        "title": "dt9affiliations.com",
+        "file": "dt9affiliations.com-20220926T100950.json",
+        "requestedUrl": "https://dt9affiliations.com/en/",
+        "finalUrl": "https://dt9affiliations.com/en/",
+        "fetchTime": "2022-09-26T08:09:50.837Z"
+    },
+    {
+        "title": "listingslab.com",
+        "file": "listingslab.com-20220926T101315.json",
+        "requestedUrl": "https://listingslab.com/",
+        "finalUrl": "https://listingslab.com/",
+        "fetchTime": "2022-09-26T08:13:15.314Z"
+    },
+    {
+        "title": "snai.it",
+        "file": "m.snai.it-20220926T101508.json",
+        "requestedUrl": "https://www.snai.it/casino",
+        "finalUrl": "https://m.snai.it/casino",
+        "fetchTime": "2022-09-26T08:15:08.984Z"
+    },
+    {
+        "title": "pwa-seo.app",
+        "file": "pwa-seo.app-20220926T101042.json",
+        "requestedUrl": "https://pwa-seo.app/",
+        "finalUrl": "https://pwa-seo.app/",
+        "fetchTime": "2022-09-26T08:10:42.321Z"
+    },
+    {
+        "title": "bet365.com",
+        "file": "www.bet365.com-20220926T101437.json",
+        "requestedUrl": "https://www.bet365.com/#/HO/",
+        "finalUrl": "https://www.bet365.com/",
+        "fetchTime": "2022-09-26T08:14:37.268Z"
+    },
+    {
+        "title": "williamhill.com",
+        "file": "www.williamhill.com-20220926T101923.json",
+        "requestedUrl": "https://www.williamhill.com/?btag=a_104871b_5c_&utm_source=incomeaccess&utm_medium=affiliates&utm_campaign=5&utm_term=104871&utm_content=1216617&siteid=104871#!/",
+        "finalUrl": "https://www.williamhill.com/?btag=a_104871b_5c_&utm_source=incomeaccess&utm_medium=affiliates&utm_campaign=5&utm_term=104871&utm_content=1216617&siteid=104871",
+        "fetchTime": "2022-09-26T08:19:23.369Z"
+    }
+]
