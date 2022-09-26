@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "name": "feature-lighthouse-viewer",
   "description": "Renders lighthouse JSON reports inside React",
   "keywords": ["lighthouse", "react", "higher-order-framework"],
