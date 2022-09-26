@@ -1,11 +1,11 @@
-import { configureStore, ThunkAction, Action } from '@reduxjs/toolkit'
-import sharedReducer from '../features/Shared/store/slice'
-import divemaltaReducer from '../features/DiveMalta/store/slice'
+import { configureStore, ThunkAction, Action } from "@reduxjs/toolkit";
+import sharedReducer from "../features/Shared/store/slice";
+import lighthouseViewerReducer from "../features/LighthouseViewer/store/slice";
 
 export const featuresStore = configureStore({
   reducer: {
     shared: sharedReducer,
-    divemalta: divemaltaReducer,
+    lighthouseViewer: lighthouseViewerReducer,
   },
 })
 

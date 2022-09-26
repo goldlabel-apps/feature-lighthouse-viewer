@@ -1,5 +1,15 @@
 This Feature is based on the following excellent package by [naodya](https://www.npmjs.com/~naodya)
 
+```typescript
+// Type definitions for Lighthouse Viewer HOF Feature
+// Definitions by: Chris D <https://github.com/listingslab>
+
+export interface LighthouseViewer {
+    error: any; 
+}
+```
+
+
 # [react-lighthouse-viewer](https://www.npmjs.com/package/react-lighthouse-viewer)
 
 If you have generated lighthouse report using lighthouse CLI, you can use this component to render the JSON report inside React.

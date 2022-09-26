@@ -11,15 +11,15 @@ import {
 import { 
   Shared,
 } from "./features/Shared";
-import {theme} from "./features/DiveMalta/theme/theme";
-import {DiveMalta} from "./features/DiveMalta";
+import {theme} from "./features/LighthouseViewer/theme";
+import {LighthouseViewer} from "./features";
 
 console.warn(`${process.env.REACT_APP_NAME} ${process.env.REACT_APP_VERSION} ${process.env.REACT_APP_ENV}`);
 
 export const getFeaturesStore = () => { return featuresStore }
 
 const root = ReactDOM.createRoot(
-  document.getElementById('divemalta') as HTMLElement
+  document.getElementById('feature-lighthouse-viewer') as HTMLElement
 )
 
 root.render(
@@ -29,7 +29,7 @@ root.render(
           <CssBaseline />
           <Container maxWidth="lg">
             <Shared />
-            <DiveMalta />
+            <LighthouseViewer />
           </Container>
         </ThemeProvider>
       </Provider>

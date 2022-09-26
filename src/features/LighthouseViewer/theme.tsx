@@ -8,7 +8,7 @@ export const theme = () => {
   return ({
     palette: {
       background:{
-        default: "#136096",
+        default: "#eee",
         paper: paperBg,
       },
       primary: {
