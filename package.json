@@ -2,7 +2,11 @@
   "version": "1.0.3",
   "name": "feature-lighthouse-viewer",
   "description": "Renders lighthouse JSON reports inside React",
-  "keywords": ["lighthouse", "react", "higher-order-framework"],
+  "keywords": [
+    "lighthouse",
+    "react",
+    "higher-order-framework"
+  ],
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -31,7 +35,7 @@
     "react-draggable": "^4.4.5",
     "react-markdown": "^8.0.3",
     "react-redux": "^8.0.2",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^2.1.3",
     "typescript": "^4.7.4",
     "web-vitals": "^2.1.4"
   },

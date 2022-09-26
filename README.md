@@ -1,3 +1,3 @@
 ## Higher Order Framework Feature
 
-#### [Lighthouse Viewer](./src/features/LighthouseViewer/README.md)
+#### [Lighthouse Viewer](./src/features/LighthouseViewer/)
