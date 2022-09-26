@@ -1,4 +1,8 @@
+
+
+
 # react-lighthouse-viewer
+
 
 If you have generated lighthouse report using lighthouse CLI, you can use this component to render the JSON report inside React.
 
